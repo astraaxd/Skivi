@@ -23,7 +23,7 @@ After this, log back into your chromebook.
 
 ## Step 2: Installing APKs
 Just logging back in won't do anything. We will need a couple necessary files to actually "unblock" everything.
-Go to [This Google Drive link]("https://drive.google.com/file/d/1UCd3KQbBpyIoaXSGar6OAGff2u8bPm_4/view?usp=sharing") and download the file.
+Go to https://drive.google.com/file/d/1UCd3KQbBpyIoaXSGar6OAGff2u8bPm_4/view?usp=sharing and download the file.
 If Google Drive is for some reason blocked, search for "Cx File Explorer APK" and start clicking around links until you find a download.
 
 Once the APK is downloaded you need to open your files, go to downloads, and double click the Cx File Explorer APK.
@@ -31,8 +31,8 @@ If everything is done correctly it should open a window asking to install the ap
 
 
 ## Step 3: VPN Time Baby
-Cx File Explorer is your new file manager, so get used to it. Go back to chrome and go to the [Cloudflare website]("https://1.1.1.1") and download Cloudflare.
-If Cloudflare is blocked (which it probably is), I somehow managed to find a copy of the Cloudflare APK on my Oculus, so I backed it up for y'all. The link is [here]("https://drive.google.com/file/d/1kwM5D0RfJr-xUp_mbeWg8T5ET6KUCxno/view?usp=sharing").
+Cx File Explorer is your new file manager, so get used to it. Go back to chrome and go to https://1.1.1.1 and download Cloudflare.
+If Cloudflare is blocked (which it probably is), I somehow managed to find a copy of the Cloudflare APK on my Oculus, so I backed it up for y'all. The link is https://drive.google.com/file/d/1kwM5D0RfJr-xUp_mbeWg8T5ET6KUCxno/view?usp=sharing
 To install APKs now, open Cx File Explorer and go to the downloads tab. From there, click on the .apk file ONCE to open the installer. This is our new way of installing APKs. Install Cloudflare.
 Once it's installed, open it and turn the switch on. It should say that your internet is secured or private or whatever.
 
@@ -40,8 +40,8 @@ Once it's installed, open it and turn the switch on. It should say that your int
 
 ## Step 4: More APKs!!! Yay...
 SKIP THIS STEP IF YOU ARE PLANNING ON SAVING STORAGE. THIS STEP IS NOT REQUIRED!!!!
-This step is only if you want more advanced apps, like DuckDuckGo in step 5.1. Go to the [F-Droid website]("https://f-droid.org/en/") to install F-Droid.
-If it's blocked, go to [my reupload]("https://drive.google.com/file/d/1i7z3rU4JQyMsk-TYE7KsbvIetDaL145B/view?usp=sharing") and install F-Droid. If you are using the reupload, it will be an older version that doesn't really work well. To actually get a working version, just update it when it pops up that there is a new update.
+This step is only if you want more advanced apps, like DuckDuckGo in step 5.1. Go to the https://f-droid.org/en/ to install F-Droid.
+If it's blocked, go to my reupload: https://drive.google.com/file/d/1i7z3rU4JQyMsk-TYE7KsbvIetDaL145B/view?usp=sharing and install F-Droid. If you are using the reupload, it will be an older version that doesn't really work well. To actually get a working version, just update it when it pops up that there is a new update.
 Bam, you have F-Droid installed.
 
 
@@ -77,14 +77,14 @@ After you pasted, click enter. This will install FireFox. After it's installed, 
 
 ## Step 5.3: Experimental Browsers
 Installing the following is not reccomended. It most likely won't work, either.
-The links to all experimental browsers are [here]("https://drive.google.com/drive/folders/1B2LkuzjAlDVMjQXQieflf85PmZIZWZ7V?usp=sharing").
+The links to all experimental browsers are https://drive.google.com/drive/folders/1B2LkuzjAlDVMjQXQieflf85PmZIZWZ7V?usp=sharing
 
 
 
 ## Step 7: Uhm, other apps?
 This is not needed! You can basically do anything you want right now. BUT, if you want, there are some other apps you can install.
-1. [Discord]("https://drive.google.com/file/d/1LvMHOidiUqb3DxBhcVs_CAtLatmgxOBo/view?usp=sharing")
-2. [Minecraft Pocket Edition]("https://drive.google.com/file/d/1UR1yBEooO51AG1odLs5onLKp7KUXAdUT/view?usp=sharing")
+1. Discord: https://drive.google.com/file/d/1LvMHOidiUqb3DxBhcVs_CAtLatmgxOBo/view?usp=sharing
+2. Minecraft Pocket Edition: https://drive.google.com/file/d/1UR1yBEooO51AG1odLs5onLKp7KUXAdUT/view?usp=sharing
 
 
 
