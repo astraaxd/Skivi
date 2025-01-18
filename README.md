@@ -65,17 +65,17 @@ This one took me a while, since if you want a somewhat decent browser it's not j
 If you want a not really good browser, install DuckDuckGo by following Step 5.1.
 if you want a better browser, install FireFox by following Step 5.2.
 
-## Step 5.1: Installing DuckDuckGo
+## Step 6.1: Installing DuckDuckGo
 This is the only one I actually tested and worked on older devices. To install DuckDuckGo, you must follow Step 4 if not already.
 Go to the F-Droid app and search for "DuckDuckGo". Install it. That's literally it.
 
-## Step 5.2: Installing FireFox
+## Step 6.2: Installing FireFox
 This is a really good browser for chromebooks but it does take up some space. Free up space if necessary before doing this!
 Once you have around 3-4 gigabytes of storage avaiable, follow Step 5. After Linux is installed, open the Terminal app and paste the following command:
 ```sudo apt install firefox-esr```
 After you pasted, click enter. This will install FireFox. After it's installed, open the FireFox app.
 
-## Step 5.3: Experimental Browsers
+## Step 6.3: Experimental Browsers
 Installing the following is not reccomended. It most likely won't work, either.
 The links to all experimental browsers are https://drive.google.com/drive/folders/1B2LkuzjAlDVMjQXQieflf85PmZIZWZ7V?usp=sharing
 
