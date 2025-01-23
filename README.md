@@ -1,12 +1,12 @@
-# AyeP
+# Skivi
 My method to completely unblocking everything on school Chrome accounts.
 
 
 
 --------
 
-# HOW TO SET AYEP UP
-This guide will show you how to completely setp AyeP up.
+# HOW TO SET SKIVI UP
+This guide will show you how to completely set Skivi up.
 
 REQUIREMENTS:
 1 chromebook of any kind that isn't your schools (can be a cheap dumb one off of ebay for 20 bucks, doesnt matter)
@@ -27,7 +27,7 @@ Go to https://drive.google.com/file/d/1UCd3KQbBpyIoaXSGar6OAGff2u8bPm_4/view?usp
 If Google Drive is for some reason blocked, search for "Cx File Explorer APK" and start clicking around links until you find a download.
 
 Once the APK is downloaded you need to open your files, go to downloads, and double click the Cx File Explorer APK.
-If everything is done correctly it should open a window asking to install the app, just click install. If it says it's not supported, AyeP will not work on your device.
+If everything is done correctly it should open a window asking to install the app, just click install. If it says it's not supported, Skivi will not work on your device.
 
 
 ## Step 3: VPN Time Baby
