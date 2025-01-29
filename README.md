@@ -5,6 +5,16 @@ My method to completely unblocking everything on school Chrome accounts.
 
 --------
 
+
+
+# WARNING!
+This will work horribly in ChromeOS 100-ish and above, so if you want to check just open Settings, About ChromeOS, and it will say. If you are below 100-ish, you SHOULD be fine. We are currently working on a fix for ChromeOS 100 and above.
+If you are using ChromeOs above 100-ish, proceed with caution.
+
+
+
+
+
 # HOW TO SET SKIVI UP
 This guide will show you how to completely set Skivi up.
 
@@ -14,7 +24,7 @@ An SD card
 
 
 
-## Step 1: Enabling dev mode
+## Step 1: Enabling Dev Mode
 Press and hold the ESC key + Refresh key, then press the Power button to turn it back on.
 When the recovery screen appears, press Ctrl + D to enable Developer Mode.
 Confirm the prompt and allow your device to reset and enter Developer Mode.
@@ -28,6 +38,12 @@ If Google Drive is for some reason blocked, search for "Cx File Explorer APK" an
 
 Once the APK is downloaded you need to open your files, go to downloads, and double click the Cx File Explorer APK.
 If everything is done correctly it should open a window asking to install the app, just click install. If it says it's not supported, Skivi will not work on your device.
+
+WARNING: On ChromeOS 100ish and above, the following list will delete all APKs:
+
+Restarting the device
+Clearing the notifications (?)
+Cancelling an APK install
 
 
 ## Step 3: VPN Time Baby
