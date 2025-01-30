@@ -73,6 +73,7 @@ Once Linux is installed, you'll want to make sure your system is up to date. Ope
 After you pasted, click enter. Then, paste the following command:
 ```sudo apt upgrade```
 After you pasted, click enter. If a popup asks if you want to continue, type `y` and press Enter to confirm.
+When using Linux applications I reccomend you use low power mode as it helps with lag issues kind of, so open settings, go to system preferences, then power, then turn on battery saver. You can put your brightness back up as it doesn't change anything.
 
 
 
