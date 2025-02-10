@@ -8,7 +8,8 @@ My method to completely unblocking everything on school Chrome accounts.
 
 
 # WARNING!
-This will work horribly in ChromeOS 100-ish and above, so if you want to check just open Settings, About ChromeOS, and it will say. If you are below 100-ish, you SHOULD be fine. We are currently working on a fix for ChromeOS 100 and above.
+Skivi is currently patched as of ChromeOS 132.0!
+This will work bad in ChromeOS 100-ish and above, so if you want to check just open Settings, About ChromeOS, and it will say. If you are below 100-ish, you SHOULD be fine. We are currently working on a fix for ChromeOS 100 and above.
 If you are using ChromeOS above 100-ish, proceed with caution.
 
 
