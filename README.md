@@ -51,8 +51,8 @@ Cancelling an APK install
 Cx File Explorer is your new file manager, so get used to it. Go back to chrome and go to https://1.1.1.1 and download Cloudflare.
 If Cloudflare is blocked (which it probably is), I somehow managed to find a copy of the Cloudflare APK on my Oculus, so I backed it up for y'all. The link is https://drive.google.com/file/d/1kwM5D0RfJr-xUp_mbeWg8T5ET6KUCxno/view?usp=sharing
 To install APKs now, open Cx File Explorer and go to the downloads tab. From there, click on the .apk file ONCE to open the installer. This is our new way of installing APKs. Install Cloudflare.
-Once it's installed, open it and turn the switch on. It should say that your internet is secured or private or whatever.
-
+Once it's installed, open it and turn the switch on. It should say that your internet is secured or private or whatever. FOR CLOUDFLARE PEOPLE: If it's stuck on "checking connection", turn the switch OFF.
+Then, it'll pop up with something. Click the 2nd lowest option "Use DNS Only Mode" and then it will work.
 
 
 ## Step 4: More APKs!!! Yay...
@@ -111,3 +111,24 @@ This is not needed! You can basically do anything you want right now. BUT, if yo
 Go to the [Google Play Store]("https://play.google.com/store/games") to find the game you want, or search for it. Once you found it, copy the link. Then, open a new tab and go to https://apps.evozi.com/apk-downloader/
 Once on the downloader, paste in the link to the game you copied. Then click "generate download link". Once it's done and didn't give an error, click the "Click here to download com.BLAHBLAH.BLAHBLAH now".
 Open Cx File Explorer and open the .apk file once it downloaded. Install it and like yeah!!!
+
+
+
+## Step 9: PROXY SERVER OMG ITS HAPPENING
+If some sites such as Xbox Cloud Gaming doesn't work, connect to one of the best proxies. I used Python and a list of over 10 thousand proxies, and it found THIS.
+
+The Most GOD-TIER Proxy for Gaming
+IP: 188.114.99.171
+Port: 80
+Location: Amsterdam, Netherlands
+Protocol: SOCKS4 (Fast)
+Anonymity: Elite (Maximum privacy)
+Latency: 2.824ms (Absolutely insane)
+Response Time: 72ms (Basically instant)
+Uptime: 99.97% (Basically never dies)
+ISP: Cloudflare, Inc. (Highly trusted)
+
+
+To connect, open your settings on your chromebook. Then go to network, then Wi-Fi, and click on the one that says "Connected". Scroll down to Proxy. Toggle on "Allow proxies for shared networks".
+Then, click confirm. Before you type anything, toggle on "Use the same proxy for all protocols". Change connection type to "Manual proxy configuration" or the bottom-most one. Now, in the text
+box next to "Proxy" type in the IP above. Type in the box nex to "Port" the port above. then, just click save.
